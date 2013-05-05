@@ -1,0 +1,35 @@
+body
+{
+	/*background-color:#efefef;*/
+	padding-top: 60px;
+	padding-bottom:80px;
+}
+
+table tbody tr td:last-child a
+{
+	cursor: pointer;
+}
+
+.navbar a
+{
+	cursor: pointer;	
+}
+
+.addnew.active
+{
+	display:none;
+}
+
+footer
+{
+	position:fixed;
+	height:60px;
+	background-color:#efefef;
+	width:100%;
+	bottom:0px;
+}
+
+footer p
+{
+	margin-top:20px;
+}
